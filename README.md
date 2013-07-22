@@ -34,9 +34,10 @@ make the filename you'd get something like "whichdopeoplewhoprogaminpytho.txt" A
 "Which do people who program in Python like best : Strawberry or Vanilla?" you'd overwrite the earlier question.
 
 A "hashing" function takes a piece of text and is *almost* certain to come up with a unique code-number based on it, so 
-I'm using a hashing function to generate a name from the question which is short(ish), but almost certainly unique.
+I'm using a hashing function to generate a filename from the question which is short(ish), but almost certainly unique.
 
 Q : I looked inside the file and its weird.
+
 A : I'm storing answers in JSON format. A very simple data-structure that most pramming languages can handle very 
 easily. (More easily than XML in most cases.) 
 
