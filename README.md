@@ -16,7 +16,7 @@ These scripts use several Python libraries that can be installed using easy_inst
 Before trying to run the script make sure you have feedparser and beautiful-soup.
 
     easy_install feedparser
-    easy_install-2.6  beautifulsoup4
+    easy_install beautifulsoup4
     
 
 
