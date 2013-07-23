@@ -9,6 +9,17 @@ json structure of {"question":QUESTION,"answer":ANSWER,"link":LINK TO ORIGINAL A
 It strips out most of the HTML (which will break links and embedded YouTube videos.) On the plus side, this means 
 that the text is more suitable for converting to other formats.
 
+Pre-requisites
+--------------
+These scripts use several Python libraries that can be installed using easy_install.
+
+Before trying to run the script make sure you have feedparser and beautiful-soup.
+
+    easy_install feedparser
+    easy_install-2.6  beautifulsoup4
+    
+
+
 How to Use
 ----------
 
