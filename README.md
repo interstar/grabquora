@@ -58,7 +58,7 @@ like to request one.
 
 Q : Why do this?
 
-A : :See the discussion here :  http://www.quora.com/Quora-product/How-much-would-you-pay-for-a-program-that-downloaded-all-your-Quora-questions-and-answers/ 
+A : See the discussion here :  http://www.quora.com/Quora-product/How-much-would-you-pay-for-a-program-that-downloaded-all-your-Quora-questions-and-answers/ 
 
     
     
