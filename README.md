@@ -56,6 +56,10 @@ This gives other people the chance to write scripts to render those answers in d
 list.py program included here puts them into a single HTML page. But there'll be other options. Talk to me if you'd 
 like to request one.
 
+Q : Why do this?
+
+A : See the discussion here :  http://www.quora.com/Quora-product/How-much-would-you-pay-for-a-program-that-downloaded-all-your-Quora-questions-and-answers/ 
+
     
     
 
