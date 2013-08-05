@@ -1,6 +1,9 @@
 Quora Grabber
 =============
 
+***Update : This is the last version of the GrabQuora script. I'm now working on the more general 
+[https://github.com/interstar/rss_backup](RSS Backup) which will help you back-up from any site providing an RSS feed.***
+
 Grabs a feed of answers from a Quora user and backs them up on local machine.
 
 Currently stores each answer in a separate text file whose name is a hash of the question and which contains a 
